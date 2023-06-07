@@ -1,6 +1,7 @@
 package Kaya.hellospring.repository;
 
 import Kaya.hellospring.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
